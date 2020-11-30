@@ -1,0 +1,71 @@
+
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Montserrat,Philosopher,Roboto;
+    
+}
+.service-box-bg-1{
+    background-image: url(img/car1.jpg);
+}.service-box-bg-2{
+    background-image: url(img/img-2.jpg);
+}.service-box-bg-3{
+    background-image: url(img/img-3.jpg);
+}
+
+
+/*========================   Nav manu ==================*/
+
+.section-padding {
+  padding: 80px 0;
+}
+.service-box-bg {
+  background-size: cover;
+  background-position: center;
+  height: 220px;
+  background-color: #ddd;
+}
+.service-box-inner {
+  border: 1px solid#f3f3f3;
+}
+.service-box-inner {
+  border-top: none;
+  padding: 20px;
+  text-align: center;
+  padding-bottom: 40px;
+}
+.single-service-box {
+  position: relative;
+}
+.service-box-more-wraper {
+  position: absolute;
+  left: 0;
+  bottom: -18px;
+  width: 100%;
+  text-align: center;
+}
+.service-box-inner h3 {
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.service-meta {
+  font-size: 12px;
+  opacity: .5;
+  text-transform: uppercase;
+  margin: 0;
+}
+.border-btn {
+  font-size: 10px;
+  text-transform: uppercase;
+  color: #999;
+  font-weight: 700;
+  padding: 10px 30px;
+  display: inline-block;
+  background: #fff;
+}
+
+
+
+
+
+
